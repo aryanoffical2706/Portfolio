@@ -46,7 +46,7 @@ I created a dynamic form generator that reads JSON data and dynamically generate
 To explore this portfolio and view the projects:
 
 ```bash
-git clone https://github.com/aryansingh/awesome-portfolio.git
+git clone https://github.com/aryanoffical2706/Portfolio.git
 cd awesome-portfolio
 npm install
 npm start
